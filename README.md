@@ -79,12 +79,16 @@ secure-image-transmission/
 └── README.md
 
 
-**Screenshots
-HomeScreen
-![image](https://github.com/user-attachments/assets/551284a4-95d4-4bca-8e44-4932f613fb6d)
-Image Uploaded 
-![image](https://github.com/user-attachments/assets/445619a0-5d87-46a2-9d95-d85d4c76d834)
-Download with id
-![image](https://github.com/user-attachments/assets/56c0051e-b2e0-4ec9-9de7-412fcf359b81)
+**Screenshots**
+
+**HomeScreen**  
+![HomeScreen](https://raw.githubusercontent.com/username/repository/branch/assets/551284a4-95d4-4bca-8e44-4932f613fb6d)
+
+**Image Uploaded**  
+![Image Uploaded](https://raw.githubusercontent.com/username/repository/branch/assets/445619a0-5d87-46a2-9d95-d85d4c76d834)
+
+**Download with ID**  
+![Download with ID](https://raw.githubusercontent.com/username/repository/branch/assets/56c0051e-b2e0-4ec9-9de7-412fcf359b81)
+
 
 
