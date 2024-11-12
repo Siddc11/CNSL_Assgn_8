@@ -79,16 +79,7 @@ secure-image-transmission/
 └── README.md
 
 
-**Screenshots**
 
-**HomeScreen**  
-![HomeScreen](assets/home.png)
-
-**Image Uploaded**  
-![Image Uploaded](assets/upload.png)
-
-**Download with ID**  
-![Download with ID](assets/download.png)
 
 
 
